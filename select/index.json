@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "息を吸う ここで吸う 生きてく",
   "base_artist": "ゆいにしお",
-  "createdAt": "2026-03-24T08:02:19.296858Z",
+  "createdAt": "2026-03-24T08:21:42.139635Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "ゆいにしお",
       "has_synced": false,
       "path": "select/pl_01_息を吸う_ここで吸う_生きてく_ゆいにしお.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "息を吸う ここで吸う 生きてく",
+      "artist": "ゆいにしお",
+      "has_synced": false,
+      "path": "select/localdb_01_息を吸う_ここで吸う_生きてく_ゆいにしお.txt",
+      "repo_name": "rMXlbBsX22E"
     }
   ]
 }
